@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Prachi Salunke 👋
 
-<!--
-**prachisalunke45-spec/prachisalunke45-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science student (2nd year) from Barshi, Maharashtra.
+I am learning Python, SQL and web development, and looking for a work-from-home internship in Python and Data/AI.
 
-Here are some ideas to get you started:
+## What I know
+- Python, SQL, C++
+- HTML, CSS, JavaScript
+- Data Structures, DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Future You](https://github.com/prachisalunke45-spec/future-you) - career discovery website (HTML, CSS, JavaScript). [Live demo](https://prachisalunke45-spec.github.io/future-you/)
+- Multilingual AI Study Assistant - chatbot in Python using the Gemini API (in progress)
+
+## Certifications
+- AWS Cloud Practitioner Essentials
+- IBM SkillsBuild AI course
+
+## Contact
+- Email: prachisalunke45@gmail.com
+
